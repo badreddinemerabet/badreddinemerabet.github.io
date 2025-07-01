@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Badreddine MERABET's Homepage"
+description              : "PHD Candidate, Hefei University of Technology"
+repository               : "badreddinemerabet/badreddinemerabet.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Badreddine MERABET"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "My research explores the integration of deep learning and quantum-inspired techniques to optimize orbital angular momentum (OAM)-based free-space optical (FSO) communication systems."
+  location         : "Hefei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "merabet.badreddine@yahoo.com"
+  researchgate     : "https://www.researchgate.net/profile/Badreddine-Merabet?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
