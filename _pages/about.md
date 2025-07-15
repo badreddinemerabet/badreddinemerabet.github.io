@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM</div><img src='IeeeTCOM-min.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM</div><img src='images/Ieee.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [MultipropNet Advancing OAM-Based FSO Communication for Flexible Multi-Distance Transmissions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/10975026))
