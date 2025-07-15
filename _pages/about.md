@@ -28,6 +28,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Meas 2025</div><img src='images/Meas.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[ERViT System: Deep learning for high-accuracy OAM mode recognition and beam correction in adverse atmospheric conditions](10.1016/j.measurement.2025.117947)
+
+**Badreddine MERABET**, Binbin Wang, Aleksandr Kireev, Syed A.A. Shah, Kai Guo, Sergey S. Stafeev, Elena S. Kozlova, Victor V. Kotlyar, Zhongyi Guo.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Measurement (2025), 中科院2区, JCR Q1, IF5.6. 
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM</div><img src='images/Ieee.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
