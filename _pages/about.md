@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Badreddine MERABET**, Aleksandr Kireev, Sergey S. Stafeev, Elena S. Kozlova, Zhongyi Guo
 
 [**Journal**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- IEEE Transactions on Communication 192 (2025) 113429. 中科院2区 TOP|JCR Q1|CCF B| IF8.3. 
+- IEEE Transactions on Communication (2025), 中科院2区 TOP, JCR Q1, CCF B, IF8.3. 
 </div>
 </div>
 
