@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Badreddine MERABET"
-  avatar           : "images/Profile.jpg"
+  avatar           : "images/image (10).png"
   bio              : "My research explores the integration of deep learning and quantum-inspired techniques to optimize orbital angular momentum (OAM)-based free-space optical (FSO) communication systems."
   location         : "Hefei, China"
   employer         :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : e.g., "badreddinemerabet"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : e.g., "https://www.linkedin.com/in/badreddine-merabet-071225218/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
