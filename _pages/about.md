@@ -60,7 +60,7 @@ My primary research interests revolve around Orbital Angular Momentum (OAM), Fre
 
 Lei Ye, Jinlong Tian,**Badreddine MERABET**, Kai Guo, Bingyi Liu, Zhongyi Guo
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Journal**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - OPTICS LETTERS(2025), 中科院2区 TOP, JCR Q1, IF 3.3. 
 </div>
 </div>
@@ -73,7 +73,7 @@ Lei Ye, Jinlong Tian,**Badreddine MERABET**, Kai Guo, Bingyi Liu, Zhongyi Guo
 
 **Badreddine MERABET**, Liulin Li, Syed Afaq Ali Shah, Zhongyi Guo.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Journal**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Measurement (2025), 中科院2区, JCR Q1, IF 4.3. 
 </div>
 </div>
