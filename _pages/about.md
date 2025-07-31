@@ -28,7 +28,7 @@ My primary research interests revolve around Orbital Angular Momentum (OAM), Fre
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Meas 2025</div><img src='images/Meas.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[ERViT System: Deep learning for high-accuracy OAM mode recognition and beam correction in adverse atmospheric conditions](10.1016/j.measurement.2025.117947)
+[ERViT System: Deep learning for high-accuracy OAM mode recognition and beam correction in adverse atmospheric conditions](https://doi.org/10.1016/j.measurement.2025.117947)
 
 **Badreddine MERABET**, Binbin Wang, Aleksandr Kireev, Syed A.A. Shah, Kai Guo, Sergey S. Stafeev, Elena S. Kozlova, Victor V. Kotlyar, Zhongyi Guo.
 
@@ -43,7 +43,7 @@ My primary research interests revolve around Orbital Angular Momentum (OAM), Fre
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM</div><img src='images/Ieee.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[MultipropNet Advancing OAM-Based FSO Communication for Flexible Multi-Distance Transmissions]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/10975026))
+[MultipropNet Advancing OAM-Based FSO Communication for Flexible Multi-Distance Transmissions](10.1109/TCOMM.2025.3563704)
 
 **Badreddine MERABET**, Aleksandr Kireev, Sergey S. Stafeev, Elena S. Kozlova, Zhongyi Guo
 
@@ -56,7 +56,7 @@ My primary research interests revolve around Orbital Angular Momentum (OAM), Fre
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OL 2025</div><img src='images/ol.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Diffractive deep neural network motivating high-performance optical information encryption](10.1364/OL.557721)
+[Diffractive deep neural network motivating high-performance optical information encryption](https://doi.org/10.1364/OL.557721)
 
 Lei Ye, Jinlong Tian,**Badreddine MERABET**, Kai Guo, Bingyi Liu, Zhongyi Guo
 
@@ -66,7 +66,17 @@ Lei Ye, Jinlong Tian,**Badreddine MERABET**, Kai Guo, Bingyi Liu, Zhongyi Guo
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQT 2025</div><img src='images/Meas.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Quantum Neural Network Boosting Identifying Orbital Angular Momentum Modes](https://doi.org/10.1002/qute.202400680)
 
+**Badreddine MERABET**, Liulin Li, Syed Afaq Ali Shah, Zhongyi Guo.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Measurement (2025), 中科院2区, JCR Q1, IF 4.3. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
