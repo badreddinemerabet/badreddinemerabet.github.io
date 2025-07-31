@@ -66,7 +66,7 @@ Lei Ye, Jinlong Tian,**Badreddine MERABET**, Kai Guo, Bingyi Liu, Zhongyi Guo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQT 2025</div><img src='images/Meas.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQT 2025</div><img src='images/AQT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Quantum Neural Network Boosting Identifying Orbital Angular Momentum Modes](https://doi.org/10.1002/qute.202400680)
