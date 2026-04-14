@@ -78,7 +78,7 @@ Lei Ye, Jinlong Tian,**Badreddine MERABET**, Kai Guo, Bingyi Liu, Zhongyi Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OE 2023</div><img src='images/OEViT' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OE 2023</div><img src='images/OEViT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Vision transformers motivating superior OAM mode recognition in optical communications](https://doi.org/10.1364/OE.504841)
