@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My name is Badreddine MERABET, I'm a 4<sup>th</sup>-year PHD student at the School of Computer Science, Information and Communication Engineering, Hefei University of Technology, supervised by Prof. [Zhongyi Guo](https://scholar.google.com/citations?hl=zh-CN&user=pUjROEwAAAAJ). 
-My primary research interests revolve around Orbital Angular Momentum (OAM), Free-Space Optical (FSO) Communication, Deep Learning (DL), Quantum ML, and Image Processing. During my PhD journey, I have published 8 peer-reviewed journal papers, and l am the first author of 4 of them.
+My primary research interests revolve around Orbital Angular Momentum (OAM), Free-Space Optical (FSO) Communication, Deep Learning (DL), Quantum ML, and Image Processing. During my PhD journey, I have published 9 peer-reviewed journal papers, and l am the first author of 4 of them.
 
 
 
@@ -32,7 +32,7 @@ My primary research interests revolve around Orbital Angular Momentum (OAM), Fre
 
 **Badreddine MERABET**, Binbin Wang, Aleksandr Kireev, Syed A.A. Shah, Kai Guo, Sergey S. Stafeev, Elena S. Kozlova, Victor V. Kotlyar, Zhongyi Guo.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Journal**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Measurement (2025), 中科院2区, JCR Q1, IF 5.6. 
 </div>
 </div>
@@ -78,15 +78,15 @@ Lei Ye, Jinlong Tian,**Badreddine MERABET**, Kai Guo, Bingyi Liu, Zhongyi Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OE 2023</div><img src='images/OEViT' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Vision transformers motivating superior OAM mode recognition in optical communications](https://doi.org/10.1364/OE.504841)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Badreddine MERABET**, Bingyi Liu, Zhixiang Li, Jinglong Tian, Kai Guo, Syed Afaq Ali Shah, and Zhongyi Guo.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Jouranl**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Optics Express (2023),中科院2区, JCR Q1, IF 3.8. 
 </div>
 </div>
 
